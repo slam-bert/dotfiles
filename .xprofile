@@ -1,8 +1,0 @@
-#!/bin/sh
-
-udiskie &
-wireplumber &
-nitrogen --restore &
-dunst &
-picom --experimental-backends &
-sxhkd &
