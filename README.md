@@ -2,8 +2,6 @@
 
 This was the setup I used the first time I used Gentoo, this repo will not be maintained in any capacity.
 
-Configuration files for my computer. Will (most likely) not be kept up to date.
-
 Will most likely work on all distros, but do expect issues.
 
 The configuration files added here are, as follows:
