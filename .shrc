@@ -1,0 +1,16 @@
+export PF_INFO="ascii os uptime pkgs shell wm memory palette"
+export PF_COLOR=1
+export PF_ALIGN="12"
+
+alias la='ls -lA'
+alias ..='cd ..'
+alias poweroff='doas halt -p'
+alias dwm-config='cd ~/.config/dwm/'
+alias dmenu-config='cd ~/.config/dmenu/'
+alias st-config='cd ~/.config/st/'
+alias tabbed-config='cd ~/.config/tabbed/'
+alias slstatus-config='cd ~/.config/slstatus/'
+alias surf-config='cd ~/.config/surf/'
+alias frtn='fortune'
+alias hdd-mount='doas mount /dev/sd1c /mnt/hdd'
+alias hdd-unmount='doas umount /dev/sd1c'
