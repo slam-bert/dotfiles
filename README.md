@@ -10,7 +10,7 @@ My current config files for my OpenBSD setup.
 - Text Editor: emacs
 - Music Client: ncmpcpp
 - Web Browser: [surf](https://github.com/slam-bert/surf) + [tabbed](https://github.com/slam-bert/tabbed)
-- Font: scientifica
+- Font: terminus
 - Theme: solarized-dark
 
 My configs will not work on most Linux or BSD setups (excluding OpenBSD). Tinkering will be required.
