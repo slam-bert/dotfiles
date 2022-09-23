@@ -1,6 +1,6 @@
 # dotfiles
 
-My current config files for my OpenBSD setup.
+My current config files for my Void Linux setup.
 
 - Window Manager: [dwm](https://github.com/slam-bert/dwm)
 - Status: [slstatus](https://github.com/slam-bert/slstatus)
@@ -13,4 +13,4 @@ My current config files for my OpenBSD setup.
 - Font: terminus
 - Theme: solarized-dark
 
-My configs will not work on most Linux or BSD setups (excluding OpenBSD). Tinkering will be required.
+My configs will require tinkering (all suckless software is compiled with clang)
